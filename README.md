@@ -3,8 +3,12 @@
 <!-- <img src="assets/logo.svg" alt="Logo Text There" /> -->
 </p>
 
-# Project Title
-"[Project Name]" involves [briefly describe the main objective or purpose of the project] utilizing [mention any specific tools, technologies, or platforms]. This project aims to [mention the primary goal or outcome] to [highlight the intended impact or benefit].
+# VLAN Implementation for Broadband Cost Reduction
+Consolidated three broadband connections and implemented VLANs to optimize network resources, reduce costs, and improve overall network efficiency.
+
+## Situation
+
+
 
 ## Environments and Technologies Used
 
