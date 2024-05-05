@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/vlan-tree-logo.svg" height="200" alt="Logo Text There" />
+<img src="assets/vlan-tree-logo.svg" alt="Logo Text There" />
 </p>
 
 # VLAN Implementation for Broadband Cost Reduction
