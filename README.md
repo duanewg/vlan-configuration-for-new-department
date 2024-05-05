@@ -30,7 +30,7 @@ Windows 10
 - Configure VLANs on the main office switch to segment the network
 - Configure VLANs on switches in the new locations
 - Configuure VLANs and firewall rules on Fortigate
-- Check configurations by connecting to workstations at each site to ensure connectivity.
+- Check configurations by connecting to workstations at each site to ensure connectivity
 
 
 <h2>Architecture Diagram</h2>
