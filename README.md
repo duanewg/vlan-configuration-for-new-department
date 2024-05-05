@@ -19,6 +19,9 @@ p>
 - 400ft of multimode OM3 fiber optic cable
 - FortiGate-60E Firewall
 
+## Operating Systems Used
+Windows 10
+
 ## High-Level Deployment and Configuration Steps
 
 - Perform network assessment and VLAN design 
