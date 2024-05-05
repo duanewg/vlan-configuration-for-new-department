@@ -7,20 +7,22 @@ When this non-profit organization first established, there was only one office. 
 
 The broadband connections were consolidated and VLANs were implemented to optimize network resources, reduce costs, and improve overall network efficiency.
 
+p>
+<img src="assets/npo-topography.png" height="80%" width="80%" alt="Site Map"/>
+</p>
+
 ## Environments and Technologies Used
 
-- Item 1
-- Item 2
-- Item 3
-
-## Operating Systems Used
-
-- Operating System Name
+- Netgear M4100-24G-POE+ Managed Switches 
+- Netgear SFP GBIC modules
+- Fiber patch panel and patch cables
+- 400ft of multimode OM3 fiber optic cable
+- FortiGate-60E Firewall
 
 ## High-Level Deployment and Configuration Steps
 
-- Step 1
-- Step 2
+- Perform network assessment and create diagram
+- Setup 
 - Step 3
 - Step 4
 - Step 5
