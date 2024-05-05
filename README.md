@@ -21,11 +21,14 @@ p>
 
 ## High-Level Deployment and Configuration Steps
 
-- Perform network assessment and create diagram
-- Setup 
-- Step 3
-- Step 4
-- Step 5
+- Perform network assessment and VLAN design 
+- Install all switches, patch panels, and cables at new locations
+- Run ethernet and fiber lines to new locations and confirm connectivity
+- Configure VLANs on the main office switch to segment the network
+- Configure VLANs on switches in the new locations
+- Configuure VLANs and firewall rules on Fortigate
+- Check configurations by connecting to workstations at each site to ensure connectivity.
+
 
 <h2>Architecture Diagram</h2>
 
