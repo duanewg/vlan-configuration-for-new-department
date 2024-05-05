@@ -3,7 +3,7 @@
 </p>
 
 # VLAN Implementation for Broadband Cost Reduction
-When this non-profit organization first established, there was only one office.  As the organization grew, it added a technology lab and another department.  In order to meet the demands of the two departments and the users of the technogy lab, broadband accounts were set up at all three locations.    
+When this non-profit organization first established, there was only one office.  As the organization grew, it added a technology lab and another department.  In order to meet the demands of the two departments and the users of the technology lab, broadband accounts were set up at all three locations.    
 
 The broadband connections were consolidated and VLANs were implemented to optimize network resources, reduce costs, and improve overall network efficiency.
 
@@ -29,7 +29,7 @@ Windows 10
 - Run ethernet and fiber lines to new locations and confirm connectivity
 - Configure VLANs on the main office switch to segment the network
 - Configure VLANs on switches in the new locations
-- Configuure VLANs and firewall rules on Fortigate
+- Configure VLANs and firewall rules on Fortigate
 - Check configurations by connecting to workstations at each site to ensure connectivity
 
 
