@@ -7,7 +7,7 @@ When this non-profit organization first established, there was only one office. 
 
 The broadband connections were consolidated and VLANs were implemented to optimize network resources, reduce costs, and improve overall network efficiency.
 
-p>
+<p>
 <img src="assets/npo-topography.png" height="80%" width="80%" alt="Site Map"/>
 </p>
 
