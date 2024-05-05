@@ -20,7 +20,8 @@ The broadband connections were consolidated and VLANs were implemented to optimi
 - FortiGate-60E Firewall
 
 ## Operating Systems Used
-Windows 10
+
+- Windows 10
 
 ## High-Level Deployment and Configuration Steps
 
